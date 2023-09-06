@@ -1,5 +1,3 @@
-# Primitive Docker Image README
-
 This Docker image has been made to encapsulate [primitive](https://github.com/fogleman/primitive), a command-line application designed to reproduce images with geometric primitives.
 
 ## Build the Docker Image
