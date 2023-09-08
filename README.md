@@ -49,7 +49,7 @@ Usage of primitive:
 
 To process an image with 1000 triangles with a verbsose output:
 ```bash
-docker run -v $(pwd)/app:/app docker-primitive:latest -i app/input/lemur.jpg -o app/output/lemur.jpg -n 1000 -m 1 -v
+docker run -v $(pwd)/primitive:/primitive docker-primitive:latest -i app/input/lemur.jpg -o app/output/lemur.jpg -n 1000 -m 1 -v
 ```
 
 ## Contact
